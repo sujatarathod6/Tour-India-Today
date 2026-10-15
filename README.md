@@ -39,9 +39,16 @@ The Bootstrap stylesheet and JavaScript bundle are loaded from a CDN, so an inte
 
 ## Screenshots
 
-No screenshots are included in the project files yet.
+## Screenshots
 
-> Screenshot placeholder: add a screenshot of the Tour India Today page here when one is available.
+### Screenshot 1 — Website Preview
+
+![Tour India Today Website Preview](screenshot/tour-india-today1.png)
+
+### Screenshot 2 — Website View
+
+![Tour India Today Website View](screenshot/tour-india-today2.jpeg)
+
 
 ## Learning Outcomes
 
